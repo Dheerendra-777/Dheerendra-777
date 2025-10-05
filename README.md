@@ -14,7 +14,7 @@
 
 # 🌟 About Me
 - 🔭 Working on **Automation & Web Development Projects**  
-- 🌱 Currently learning **Full-Stack Development & Cloud Computing**  
+- 🌱 Currently learning **Full-Stack Development & Cloud Computing & Ai**  
 - 👯 Open to collaborate on **Open Source Projects**  
 - 📫 Reach me at: **dheerendrakashyap0461@gmail.com**  
 - ⚡ Fun fact: I love solving problems with code!  
@@ -67,9 +67,8 @@
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Dheerendra-777/Dheerendra-777/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/Dheerendra-777/Dheerendra-777/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
-
 ---
 
 # 🌐 Connect with Me  
