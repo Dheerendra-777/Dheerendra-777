@@ -86,7 +86,9 @@
 
 # 👀 Profile Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dheerendra-777&style=for-the-badge&color=blue"/>
+  <a href="https://www.instagram.com/Dheerendra_kashyap__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
