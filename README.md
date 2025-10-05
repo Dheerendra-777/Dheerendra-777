@@ -49,7 +49,7 @@
 - ⏰ [Digital Clock](https://github.com/Dheerendra-777/Digital_clock)  
 - 🤖 [GitHub Automation](https://github.com/Dheerendra-777/Github-Automation)  
 - 📝 [Automatic Certificate Generator](https://github.com/Dheerendra-777/Automatic-Certificate-Generator)  
-- 📲 https://github.com/Dheerendra-777/WhatsApp1
+- 📲 [WhatsApp1](https://github.com/Dheerendra-777/WhatsApp1)
 ---
 
 # 📊 GitHub Stats  
