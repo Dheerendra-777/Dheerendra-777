@@ -50,6 +50,7 @@
 - 🤖 [GitHub Automation](https://github.com/Dheerendra-777/Github-Automation)  
 - 📝 [Automatic Certificate Generator](https://github.com/Dheerendra-777/Automatic-Certificate-Generator)  
 - 📲 [WhatsApp1](https://github.com/Dheerendra-777/WhatsApp1)
+- 🧾 [my-web-resume](https://github.com/Dheerendra-777/my-web-resume)
 ---
 
 # 📊 GitHub Stats  
